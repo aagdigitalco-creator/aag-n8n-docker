@@ -3,7 +3,7 @@ services:
     name: n8n
     env: docker
     plan: free
-    repo: https://github.com/aagdigitalco-creator/n8n
+    repo: https://github.com/aagdigitalco-creator/aag-n8n-docker
     branch: master
     dockerfilePath: ./Dockerfile
     envVars:
